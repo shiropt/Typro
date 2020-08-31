@@ -1,9 +1,9 @@
 function TypeStart() {
   
   const words = [
-    "indexOf","lastindexOf","charAt","match","replace","substring(start, end)","substr(start,length)","sprit(separator)",
+    "indexOf","lastIndexOf","charAt","match","replace","substring(start, end)","substr(start, length)","split(separator)",
     "toUpperCase","toLowerCase","link","concat","trim","push","pop","unshift","slice",
-    "sort","reverse","concat","join","splice","Mathrandom","ceil","floor","round","max","min",
+    "sort","reverse","concat","join","splice","Math.random","ceil","floor","round","max","min",
     
   ];
   const meanings = [
